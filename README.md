@@ -1,2 +1,0 @@
-# yolov5_keypoint_detect
-带关键点检测的yolov5模型
